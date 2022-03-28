@@ -1,0 +1,58 @@
+h1, h2{
+    text-align: center;
+}
+
+div{
+    width: 600px;
+    background-color: #99ff99;
+    border: 1px dashed black;
+    margin: auto;
+    padding: 30px;
+    color: navy;
+    font-family: Georgia;
+    line-height: 24px;
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+.col{
+    float: left;
+    width: 50%;
+}
+
+img{
+    opacity: 0.5;
+    border: 1px solid black;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+a{
+    color: black;
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+hr{
+    width: 300px;
+    border: 3px dashed blue;
+}
+
+span{
+    display: inline;
+    line-height: 20px;
+    color: blue;
+}
